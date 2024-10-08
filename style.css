@@ -2,35 +2,35 @@ body {
   text-align: center;
   /* background-color: #FFF3EF; */
   background-color: #fff8e8;
-  font-size: 15pt;
+  font-size: 120%;
+  font-family: Raleway
 }
 
 h1 {
     max-width: 100%;
     margin: auto;
     text-align: left;
-    font-size: 250%;
+    font-size: 270%;
     /* color: #412121; */
     color: #4E7CBB;
     padding: 10px;
     /* font-family:Georgia, 'Times New Roman', Times, serif */
-    font-family:'Trebuchet MS';
+/*     font-family:'Trebuchet MS'; */
 }
 
 .subtitle {
   max-width:55%;
   margin:auto;
   text-align: center;
-  font-family:'Trebuchet MS';
+/*   font-family:'Trebuchet MS'; */
   color: #CA9090;
-  font-size: 110%;
+  font-size: 130%;
 }
 
 .bodytext {
-    max-width: 55%;
+    max-width: 60%;
     margin: auto;
     text-align: justify;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 100%;
 }
 
@@ -53,8 +53,8 @@ img {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 100%;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 120%;
+/*   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
 }
 
 /* mouse over link */
@@ -62,11 +62,11 @@ img {
     background-color: #412121 !important;
     color: whitesmoke;
     font-size: 100%;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+/*     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
 }
 
 a {
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+/*   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
   color: #EC6B62;
 }
 
@@ -77,9 +77,9 @@ a:hover{
 .header {
     padding: 0.5%;
     /*font-family: Georgia, 'Times New Roman', Times, serif;*/
-    font-family:'Trebuchet MS';
+/*     font-family:'Trebuchet MS'; */
     text-align: center;
     /* color: #d52941; */
     color: #50514f;
-    font-size: 265%;
+    font-size: 270%;
   }
