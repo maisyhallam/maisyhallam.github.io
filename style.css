@@ -2,7 +2,7 @@ body {
   text-align: center;
   /* background-color: #FFF3EF; */
   background-color: #fff8e8;
-  font-size: 100%;
+  font-size: 85%;
   font-family: Raleway
 }
 
@@ -10,7 +10,7 @@ h1 {
     max-width: 100%;
     margin: auto;
     text-align: left;
-    font-size: 220%;
+    font-size: 270%;
     /* color: #412121; */
     color: #4E7CBB;
     padding: 10px;
@@ -24,7 +24,7 @@ h1 {
   text-align: center;
 /*   font-family:'Trebuchet MS'; */
   color: #CA9090;
-  font-size: 130%;
+  font-size: 150%;
 }
 
 .bodytext {
