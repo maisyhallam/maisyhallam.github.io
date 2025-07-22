@@ -1,9 +1,15 @@
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body {
   text-align: center;
   /* background-color: #FFF3EF; */
   background-color: #fff8e8;
   font-size: 85%;
-  font-family: Raleway
+  font-family: Lato
 }
 
 h1 {
